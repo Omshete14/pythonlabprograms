@@ -1,0 +1,8 @@
+input('enter student name')
+input('enter address')
+input('contact no')
+input('mother tongue')
+input('school name ')
+input('year')
+input('panel')
+input('roll no')
